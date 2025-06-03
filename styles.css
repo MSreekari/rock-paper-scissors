@@ -1,0 +1,58 @@
+body{
+    background-color: #050d20;
+    color: azure;
+}
+h1{
+    text-align: center;
+}
+#btn{
+    padding: 50px;
+    border-radius: 180px;
+    height: 230px;
+    width: auto;
+    
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.scissors-icon{
+    height: 140px;
+    margin-block: 0.25px;
+}
+#reset-btn{
+    height: 30px;
+    width: 110px;
+}
+.reset-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+#result-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;         
+    text-align: center;          
+    margin-top: 40px;               
+}
+#result-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+#score-text {
+    font-size: 18px;
+}
+#result-area img {
+    height: 80px;
+    margin: 10px;
+}
+.moves{
+    display: flex;
+    flex-direction: row;
+}
