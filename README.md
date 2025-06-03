@@ -20,8 +20,6 @@ It’s simple, but doing it myself helped me really understand how the browser w
 - Using `localStorage` to persist data
 - Debugging layout issues and understanding how `flex`, `gap`, `margin: 0 auto`, and `text-align` actually behave
 
-### ✅ What’s Next
-
 ---
 
 Feel free to check out the code or try the game!  
